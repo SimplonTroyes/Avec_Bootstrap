@@ -1,0 +1,13 @@
+.encadrer{
+  background-color: white;
+  border: grey solid 1px ;
+  font-style: blue;
+  border-radius: 3px;
+
+}
+.fondgris{
+  background-color: #eee;
+  border-radius: 5px;
+  border-style: solid black 1px;
+  padding : 10px;
+}
